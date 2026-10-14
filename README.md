@@ -6,7 +6,7 @@
 
 Building AI reading tools, reusable agent skills, and small improvements to everyday workflows.
 
-## 先看看 Got it
+## 产品实践 · Got it
 
 ### [Got it · 读到不懂的地方，就在原文旁弄明白](https://github.com/Bing-Bryan/Got-it)
 
@@ -22,7 +22,19 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 
 [查看项目与安装说明 →](https://github.com/Bing-Bryan/Got-it#快速开始)
 
-## 其他实践
+### 这个项目里的产品取舍
+
+| 选择 | 对用户的意义与代价 |
+| --- | --- |
+| 在原文旁解释与提问 | 保留阅读上下文；围绕选区回答，也需要明确上下文覆盖范围。 |
+| 本地保存阅读材料与积累 | 不改写原文件，方便回看；当前没有云同步或多人协作。 |
+| 区分“找到来源”和“主张得到支持” | 让用户看见证据边界，避免把有链接的回答直接当成事实。 |
+
+**当前验证边界：** 已有可试用版本、界面示例和发布检查记录；这些能说明实现与功能检查，尚不能证明学习效果或用户留存提升。
+
+[查看发布验证记录](https://github.com/Bing-Bryan/Got-it/blob/main/docs/release-results.md)
+
+## 工具与工作流实践
 
 | 项目 | 解决的问题 |
 | --- | --- |
@@ -37,6 +49,10 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 - 等待、失败和需要人接手时，界面能否把状态说清楚？
 - 一次有效的使用方法，怎样变成下次还能复用的工具？
 
-欢迎试用，也欢迎在对应项目的 Issues 里留下具体场景和反馈。
+## 交流与合作
+
+希望围绕 AI 产品岗位和项目合作交流，尤其是 AI 阅读、知识工具和 Agent 工作流。欢迎通过下方社交主页联系我。
+
+产品使用问题与反馈，请留在对应项目的 Issues，方便结合具体场景讨论。
 
 [X / Twitter](https://x.com/Bing_Bryan_BRN) · [小红书](https://www.xiaohongshu.com/user/profile/5dc82d29000000000100a6d8)
