@@ -8,13 +8,13 @@
 
 Building AI reading tools, reusable agent skills, and small improvements to everyday workflows.
 
-## 产品实践 · Got it
+## 产品实践 · got it
 
-### [Got it · 读到不懂的地方，就在原文旁弄明白](https://github.com/Bing-Bryan/Got-it)
+### [got it · 读到不懂的地方，就在原文旁弄明白](https://github.com/Bing-Bryan/got-it)
 
-阅读时，查一个概念常常意味着离开原文、切换工具，再找回刚才读到的位置。Got it 把解释、来源查找和提问留在原文旁，让阅读可以继续。
+阅读时，查一个概念常常意味着离开原文、切换工具，再找回刚才读到的位置。got it 把解释、来源查找和提问留在原文旁，让阅读可以继续。
 
-[![Got it：原文、目录和知识贴并排显示](https://raw.githubusercontent.com/Bing-Bryan/Got-it/main/docs/images/reading.png)](https://github.com/Bing-Bryan/Got-it)
+[![got it：原文、目录和知识贴并排显示](https://raw.githubusercontent.com/Bing-Bryan/got-it/main/docs/images/reading-2026-10-14.png)](https://github.com/Bing-Bryan/got-it)
 
 - **材料放在一起：** Markdown、PDF 和网页文章共用一个本地阅读库。
 - **围绕原文理解：** 选中文字或 PDF 区域，解释概念、查找来源、提出问题。
@@ -22,7 +22,7 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 
 目前是早期试用版，需要已安装并登录的 Codex；已验证 macOS Apple Silicon。本地保存，AI 功能需要联网。
 
-[查看项目与安装说明 →](https://github.com/Bing-Bryan/Got-it#快速开始)
+[查看项目与安装说明 →](https://github.com/Bing-Bryan/got-it#快速开始)
 
 ### 这个项目里的产品取舍
 
@@ -34,7 +34,7 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 
 **当前验证边界：** 已有可试用版本、界面示例和发布检查记录；这些能说明实现与功能检查，尚不能证明学习效果或用户留存提升。
 
-[查看发布验证记录](https://github.com/Bing-Bryan/Got-it/blob/main/docs/release-results.md)
+[查看发布验证记录](https://github.com/Bing-Bryan/got-it/blob/main/docs/release-results.md)
 
 ## 工具与工作流实践
 
