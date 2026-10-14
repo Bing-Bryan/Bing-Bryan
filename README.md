@@ -43,12 +43,6 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 | [DSH Unread Dot](https://github.com/Bing-Bryan/dsh-unread-dot) | 离开 DSH 窗口后，用 macOS Dock 角标和提示音区分“还在运行”与“结果待看”。 |
 | [手势交互 3D 实验](https://github.com/Bing-Bryan/Vision-pro-Gemini-) | 用摄像头识别手势，探索旋转和缩放 3D 球体的交互。 |
 
-## 我关心的产品问题
-
-- AI 能否在用户正在做的事情里提供帮助，减少来回切换？
-- 等待、失败和需要人接手时，界面能否把状态说清楚？
-- 一次有效的使用方法，怎样变成下次还能复用的工具？
-
 ## 交流与合作
 
 希望围绕 AI 产品岗位和项目合作交流，尤其是 AI 阅读、知识工具和 Agent 工作流。欢迎通过下方社交主页联系我。
