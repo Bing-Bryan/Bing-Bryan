@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="225" viewBox="0 0 960 225" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Bing 👋</title>
+<desc id="desc">把 AI 放进具体场景，让工具更好用。</desc>
+<style>
+.text {fill:#1f2328}
+.title {font:700 56px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-variant-ligatures:none}
+.subtitle {font:600 30px -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+.reveal {animation: typing 1.05s steps(12,end) both}
+.cursor {animation: travel 1.05s steps(12,end) both}
+.cursor-mark {opacity:0; animation: blink .45s step-end 4}
+.hand {transform-origin:477px 64px; animation: wave 1.4s 1.05s ease-in-out both}
+.rule {transform-origin:20px 115px; animation: expand .55s 1.1s ease-out both}
+.subtitle {animation: enter .55s 1.35s ease-out both}
+@keyframes typing {from{width:0px}to{width:404px}}
+@keyframes travel {from{transform:translateX(0px)}to{transform:translateX(404px)}}
+@keyframes blink {0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes wave {0%,100%{transform:rotate(0deg)}20%,60%{transform:rotate(14deg)}40%,80%{transform:rotate(-10deg)}}
+@keyframes expand {from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes enter {from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.reveal,.cursor,.cursor-mark,.hand,.rule,.subtitle{animation:none}.cursor-mark{opacity:0}}
+</style>
+<defs><clipPath id="typed"><rect class="reveal" x="20" y="10" width="404" height="92"/></clipPath></defs>
+<text class="text title" x="20" y="79" clip-path="url(#typed)">Hi, I'm Bing</text>
+<g class="cursor"><rect class="text cursor-mark" x="22" y="31" width="3" height="53" rx="1"/></g>
+<g class="hand"><text x="444" y="80" font-size="60" font-family="Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji,sans-serif">👋</text></g>
+<path class="rule" d="M20 115H940" stroke="#d1d9e0" stroke-width="1.5"/>
+<text class="text subtitle" x="20" y="180">把 AI 放进具体场景，让工具更好用。</text>
+</svg>
