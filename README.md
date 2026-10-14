@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-header-light.svg">
-  <img src="assets/github-header-light.svg" alt="Hi, I'm Bing 👋 — 把 AI 放进具体场景，让工具更好用。" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-header-light.svg?v=2">
+  <img src="assets/github-header-light.svg?v=2" alt="Hi, I'm Bing 👋 — 把 AI 放进具体场景，让工具更好用。" width="960">
 </picture>
 
 我在做 AI 阅读工具，也把日常使用 Agent 时遇到的问题，做成可复用的 Skills 和小工具。这里记录我的产品实验与实现。
