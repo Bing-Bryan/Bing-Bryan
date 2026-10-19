@@ -20,9 +20,9 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 - **围绕原文理解：** 选中文字或 PDF 区域，解释概念、查找来源、提出问题。
 - **留下阅读积累：** 知识贴、译文和进度保存在本机，方便继续和回看。
 
-目前是早期试用版，需要已安装并登录的 Codex；已验证 macOS Apple Silicon。本地保存，AI 功能需要联网。
+可直接在线体验，无需安装或登录 Codex。材料和阅读成果保存在当前浏览器，AI 功能需要联网；本地部署仍需安装并登录 Codex。
 
-[查看项目与安装说明 →](https://github.com/Bing-Bryan/got-it#快速开始)
+[直接在线体验 →](https://gotit.bingbryan.com/) · [查看项目与安装说明 →](https://github.com/Bing-Bryan/got-it#快速开始)
 
 ### 这个项目里的产品取舍
 
