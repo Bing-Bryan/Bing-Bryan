@@ -14,7 +14,7 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 
 阅读时，查一个概念常常意味着离开原文、切换工具，再找回刚才读到的位置。got it 把解释、来源查找和提问留在原文旁，让阅读可以继续。
 
-[![got it：原文、目录和知识贴并排显示](https://raw.githubusercontent.com/Bing-Bryan/got-it/main/docs/images/reading-2026-10-14.png)](https://github.com/Bing-Bryan/got-it)
+[![got it：原文、目录和知识贴并排显示](https://raw.githubusercontent.com/Bing-Bryan/got-it/main/docs/images/reading-2026-10-19.png)](https://github.com/Bing-Bryan/got-it)
 
 - **材料放在一起：** Markdown、PDF 和网页文章共用一个本地阅读库。
 - **围绕原文理解：** 选中文字或 PDF 区域，解释概念、查找来源、提出问题。
