@@ -18,7 +18,7 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 - **查找来源：** 寻找数字、观点的出处，查看资料是否支持原句。
 - **问一问：** 围绕选区提出具体问题，回答留在原句旁，方便回看。
 
-https://github.com/user-attachments/assets/8ec2fd6d-f8bd-4fb7-b921-e6b796e13eaf
+https://github.com/user-attachments/assets/ea04e976-8479-4c21-86e0-1cb752521340
 
 [直接在线体验 →](https://gotit.bingbryan.com/) · [查看项目 →](https://github.com/Bing-Bryan/got-it)
 
