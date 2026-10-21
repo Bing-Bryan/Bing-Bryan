@@ -1,4 +1,8 @@
-https://github.com/user-attachments/assets/8ec2fd6d-f8bd-4fb7-b921-e6b796e13eaf
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-header-light.svg?v=2">
+  <img src="assets/github-header-light.svg?v=2" alt="Hi, I'm Bing 👋 — 把 AI 放进具体场景，让工具更好用。" width="960">
+</picture>
 
 我在做 AI 阅读工具，也把日常使用 Agent 时遇到的问题，做成可复用的 Skills 和小工具。这里记录我的产品实验与实现。
 
@@ -14,7 +18,7 @@ Building AI reading tools, reusable agent skills, and small improvements to ever
 - **查找来源：** 寻找数字、观点的出处，查看资料是否支持原句。
 - **问一问：** 围绕选区提出具体问题，回答留在原句旁，方便回看。
 
-[![got it：原文、目录和知识贴并排显示](https://raw.githubusercontent.com/Bing-Bryan/got-it/main/docs/images/reading-2026-10-19.png)](https://github.com/Bing-Bryan/got-it)
+https://github.com/user-attachments/assets/8ec2fd6d-f8bd-4fb7-b921-e6b796e13eaf
 
 [直接在线体验 →](https://gotit.bingbryan.com/) · [查看项目 →](https://github.com/Bing-Bryan/got-it)
 
