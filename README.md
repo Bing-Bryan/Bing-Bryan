@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/4d9a777a-45bc-489b-a881-5175cc857f73
+https://github.com/user-attachments/assets/8ec2fd6d-f8bd-4fb7-b921-e6b796e13eaf
 
 我在做 AI 阅读工具，也把日常使用 Agent 时遇到的问题，做成可复用的 Skills 和小工具。这里记录我的产品实验与实现。
 
